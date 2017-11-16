@@ -1,6 +1,6 @@
 {
     "name":"Jenkins (Commandbox Library)",
-    "version":"0.1.6",
+    "version":"0.1.7",
     "author":"",
     "location":"/ci/jenkins",
     "homepage":"",
@@ -14,15 +14,15 @@
     "shortDescription":"Commandbox commands for interacting with Jenkins",
     "description":"Jenkins is a CI server and this command set is to work with it via commandbox.",
     "instructions":"",
-    "changelog":"",
+    "changelog":"https://github.com/sosensible/cbjenkins/releases",
     "type":"commandbox-commands",
     "keywords":[],
     "private":true,
-    "projectURL":"",
+    "projectURL":"https://github.com/sosensible/cbjenkins",
     "license":[
         {
-            "type":"",
-            "URL":""
+            "type":"MIT",
+            "URL":"https://github.com/sosensible/cbjenkins/blob/master/LICENSE"
         }
     ],
     "contributors":[
