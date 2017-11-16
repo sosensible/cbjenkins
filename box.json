@@ -1,6 +1,6 @@
 {
     "name":"My Package",
-    "version":"0.1.2",
+    "version":"0.1.3",
     "author":"",
     "location":"/ci/jenkins",
     "homepage":"",
@@ -15,7 +15,7 @@
     "description":"",
     "instructions":"",
     "changelog":"",
-    "type":"",
+    "type":"commandbox-commands",
     "keywords":[],
     "private":true,
     "projectURL":"",
