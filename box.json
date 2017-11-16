@@ -1,18 +1,18 @@
 {
-    "name":"My Package",
-    "version":"0.1.3",
+    "name":"Jenkins (Commandbox Library)",
+    "version":"0.1.4",
     "author":"",
     "location":"/ci/jenkins",
     "homepage":"",
     "documentation":"",
     "repository":{
-        "type":"",
-        "URL":""
+        "type":"git",
+        "URL":"https://github.com/sosensible/cbjenkins.git"
     },
     "bugs":"",
     "slug":"@jfarraraa/cbjenkins",
-    "shortDescription":"A sweet package",
-    "description":"",
+    "shortDescription":"Commandbox commands for interacting with Jenkins",
+    "description":"Jenkins is a CI server and this command set is to work with it via commandbox.",
     "instructions":"",
     "changelog":"",
     "type":"commandbox-commands",
