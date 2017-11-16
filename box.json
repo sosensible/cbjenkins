@@ -1,6 +1,6 @@
 {
     "name":"My Package",
-    "version":"0.1.0",
+    "version":"0.1.1",
     "author":"",
     "location":"",
     "homepage":"",
@@ -10,7 +10,7 @@
         "URL":""
     },
     "bugs":"",
-    "slug":"@jfarrar_aa/cbjenkins",
+    "slug":"@jfarraraa/cbjenkins",
     "shortDescription":"A sweet package",
     "description":"",
     "instructions":"",
